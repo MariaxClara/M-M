@@ -14,8 +14,8 @@ body {
 }
 
 .glass-box {
-    width: 920px;
-    height: 530px;
+    width: 70%;
+    height: 70%;
     background: radial-gradient();
     border-radius: 20px;
     backdrop-filter: blur(3px);
