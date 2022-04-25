@@ -1,8 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 body {
     background-image: url(./image/background.jpg);
     background-position: center;
     background-size: cover;
+<<<<<<< HEAD
     height: auto;
+=======
+    height: 100vh;
+>>>>>>> 54ff53cdbb09885e11203710c27824eb06a3df11
     display: flex;
     align-items: center;
     justify-content: center;
@@ -10,8 +18,8 @@ body {
 }
 
 .glass-box {
-    width: 920px;
-    height: 530px;
+    width: 70%;
+    height: 70%;
     background: radial-gradient();
     border-radius: 20px;
     backdrop-filter: blur(3px);
@@ -60,6 +68,7 @@ button{
     font-family: cursive;
     border-radius: 5px;
     
+<<<<<<< HEAD
 }
 
 .card {
@@ -74,3 +83,6 @@ button{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
+=======
+}
+>>>>>>> 54ff53cdbb09885e11203710c27824eb06a3df11
